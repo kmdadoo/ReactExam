@@ -1,3 +1,4 @@
+// custom hook
 import { useState } from "react";
 
 function useCounter(initialValue) {
