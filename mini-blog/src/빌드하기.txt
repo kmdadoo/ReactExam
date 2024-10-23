@@ -1,0 +1,8 @@
+> npm run build //빌드하기
+생성된 빌드파일을 이용해 웹 애플리케이션을 실행하기
+ 먼저 serve 설치하기
+>npm install -g serve // strtic 파일들을 서빙해주는 역활을 하는 프로그램
+-g 글로버 모드
+실행하기
+>serve -s build
+
